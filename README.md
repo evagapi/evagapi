@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @evagapi
 - 👀 I’m interested in translation and coding
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning HTML, CSS and Java Script
 - 📫 You can reach me at [my website](http://latraductora.cat)
