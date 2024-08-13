@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @evagapi
 - 👀 I’m interested in translation and coding
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning TypeScript and Next.js
 - 📫 You can reach me at [my website](http://latraductora.cat)
